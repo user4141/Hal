@@ -15,4 +15,4 @@ var channel = "510128835895885834";//ايدي الروم
 })
 
 
-client.login("");
+client.login("NTEwMzI0NTAyODMyNjExMzQw.Dsas5A.E0-9979aVO7fMD_K_jRuicra9xM");
